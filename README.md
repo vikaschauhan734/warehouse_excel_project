@@ -29,3 +29,7 @@
     - Use the Subtotals feature to:
         - Count the number of models in each "Offers" category.
         - Calculate the total number of models.
+## Final Steps:
+- Apply appropriate formatting to ensure the worksheets are clear, readable, and professional.
+- Save the changes and close the file.
+
